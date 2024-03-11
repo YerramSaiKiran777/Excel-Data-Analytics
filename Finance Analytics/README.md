@@ -1,4 +1,4 @@
-## Finance Reports Summary
+## Financial Reports Summary
 
 ### Objectives:
 - To create P&L for markets
