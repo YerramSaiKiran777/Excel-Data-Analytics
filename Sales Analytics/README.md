@@ -1,10 +1,10 @@
 ## Sales Analtics Reports Summary
--** Objectives: **
+### Objectives: 
 - To create customer performance report
 - Market performance vs target report
 - Top n bottom 5 products report
 
--** Outcomes: **
+### Outcomes: 
 - These reports related, to the sales of the company at Customer, Market and product level helps the company to 
 - Figure out the potential customers 
 - Identify the performance of markets against their targets 
