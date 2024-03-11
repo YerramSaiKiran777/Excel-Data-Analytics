@@ -1,4 +1,5 @@
-## Sales Reports Summary
+## Sales Analytics
+
 ### Objectives: 
 - To create customer performance report
 - Market performance vs target report
